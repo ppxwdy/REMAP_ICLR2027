@@ -1,6 +1,6 @@
-# NeuroLifting
+# REMAP_NIPS2026
 
-The code of NeuroLifting for the ICML 2026 submission.
+The code of REMAP for the NIPS 2026 submission.
 
 To run the code, you need to change the location to the data file in the exp2.py and run the exp2.py directly, the file should be in UAI data format.
 
