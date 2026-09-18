@@ -1,4 +1,4 @@
-# REMAP_NIPS2026
+# REMAP_ICLR2027
 
 The code of REMAP for the ICLR 2027 submission.
 
